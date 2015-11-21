@@ -4,8 +4,8 @@
 <dict>
 	<key>AdiumSetVersion</key>
 	<real>1.0</real>
-  <key>Info</key>
-  <string>Pidgin-style HiDPI Adium icon set</string>
+	<key>Info</key>
+	<string>Pidgin-style HiDPI Adium icon set</string>
 	<key>List</key>
 	<dict>
 		<key>Generic Available</key>
