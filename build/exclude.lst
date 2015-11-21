@@ -1,4 +1,3 @@
 exclude.lst
 .DS_Store
-.gitkeep
 *.zip

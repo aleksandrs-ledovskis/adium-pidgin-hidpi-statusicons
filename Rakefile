@@ -6,7 +6,8 @@ task default: :build
 desc "Clean build directory"
 task :clean do
   FileUtils.remove_dir(BUILD_DIR, true)
-  FileUtils.rm(Dir["build/*.zip"])
+  FileUtils.rm("build/LICENSE", force: true)
+  FileUtils.rm(Dir["build/*.zip"], force: true)
 end
 
 task :get_version do
