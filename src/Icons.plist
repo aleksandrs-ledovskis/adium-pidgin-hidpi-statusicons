@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AdiumSetVersion</key>
-	<real>1.01</real>
+	<real>{{VERSION}}</real>
 	<key>Info</key>
 	<string>Pidgin-style HiDPI Adium icon set</string>
 	<key>List</key>
@@ -25,7 +25,7 @@
 		<key>Unknown</key>
 		<string>question.tiff</string>
 		<key>content</key>
-		<string>message-pending.tiff</string>
+		<string>mail.tiff</string>
 		<key>enteredtext</key>
 		<string>typing.tiff</string>
 		<key>typing</key>
@@ -50,7 +50,7 @@
 		<key>Unknown</key>
 		<string>question.tiff</string>
 		<key>content</key>
-		<string>message-pending.tiff</string>
+		<string>mail.tiff</string>
 		<key>enteredtext</key>
 		<string>typing.tiff</string>
 		<key>typing</key>

@@ -8,6 +8,10 @@ This is an updated version of [low-res icon pack by CyberSkull](http://www.adium
 2. Double-click/install
 3. Select from "Preferences -> Icons -> Status Icons"
 
+## Development
+
+`rake -T`
+
 ## License
 
 BSD-3
