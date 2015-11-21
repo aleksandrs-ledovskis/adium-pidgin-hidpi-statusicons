@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdiumSetVersion</key>
+	<real>1.0</real>
+  <key>Info</key>
+  <string>Pidgin-style HiDPI Adium icon set</string>
+	<key>List</key>
+	<dict>
+		<key>Generic Available</key>
+		<string>available.tiff</string>
+		<key>Generic Away</key>
+		<string>away.tiff</string>
+		<key>Busy</key>
+		<string>busy.tiff</string>
+		<key>Idle</key>
+		<string>extended-away.tiff</string>
+		<key>Invisible</key>
+		<string>invisible.tiff</string>
+		<key>Mobile</key>
+		<string>mobile.tiff</string>
+		<key>Offline</key>
+		<string>offline.tiff</string>
+		<key>Unknown</key>
+		<string>question.tiff</string>
+		<key>content</key>
+		<string>message-pending.tiff</string>
+		<key>enteredtext</key>
+		<string>typing.tiff</string>
+		<key>typing</key>
+		<string>typing.tiff</string>
+	</dict>
+	<key>Tabs</key>
+	<dict>
+		<key>Generic Available</key>
+		<string>available.tiff</string>
+		<key>Generic Away</key>
+		<string>away.tiff</string>
+		<key>Busy</key>
+		<string>busy.tiff</string>
+		<key>Idle</key>
+		<string>extended-away.tiff</string>
+		<key>Invisible</key>
+		<string>invisible.tiff</string>
+		<key>Mobile</key>
+		<string>mobile.tiff</string>
+		<key>Offline</key>
+		<string>offline.tiff</string>
+		<key>Unknown</key>
+		<string>question.tiff</string>
+		<key>content</key>
+		<string>message-pending.tiff</string>
+		<key>enteredtext</key>
+		<string>typing.tiff</string>
+		<key>typing</key>
+		<string>typing.tiff</string>
+	</dict>
+</dict>
+</plist>
