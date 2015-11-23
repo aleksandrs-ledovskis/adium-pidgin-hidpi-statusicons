@@ -6,7 +6,7 @@ This is an updated version of [low-res icon pack by CyberSkull](http://www.adium
 
 ## Usage
 
-1. [Download](https://github.com/aleksandrs-ledovskis/adium-pidgin-hidpi-statusicons/releases/download/v1.02/Pidgin.Status.HiDPI.AdiumStatusIcons.v1.02.zip)
+1. [Download](https://github.com/aleksandrs-ledovskis/adium-pidgin-hidpi-statusicons/releases/download/v1.03/Pidgin.Status.HiDPI.AdiumStatusIcons.v1.03.zip)
 2. Double-click/install
 3. Select from "Preferences -> Icons -> Status Icons"
 
